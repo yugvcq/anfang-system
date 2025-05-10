@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue"]=self["webpackChunkvue"]||[]).push([[401],{3401:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});var u=function(){var e=this,t=e._self._c;return t("div",[t("div",{staticStyle:{height:"calc(100vh - 80px)",overflow:"hidden",display:"flex","align-items":"center","justify-content":"center","font-size":"40px"}},[e._v(" 无权访问"),t("router-link",{attrs:{to:"/"}},[e._v("跳转到首页")])],1)])},i=[],l={name:"Auth"},r=l,s=n(1656),c=(0,s.A)(r,u,i,!1,null,"6654d293",null),a=c.exports}}]);
+//# sourceMappingURL=401.d5e31768.js.map
